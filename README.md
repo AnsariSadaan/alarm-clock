@@ -1,2 +1,2 @@
 # alarm-clock
-this alarm clock is only for my paractice 
+i have made this alarm clock for my practice 
